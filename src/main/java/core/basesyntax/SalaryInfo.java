@@ -42,7 +42,6 @@ public class SalaryInfo {
         } catch (ParseException e) {
             e.printStackTrace();
         }
-
         return report.toString();
     }
 }
